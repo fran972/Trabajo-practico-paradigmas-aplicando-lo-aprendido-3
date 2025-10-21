@@ -4,7 +4,7 @@
 
 ---
 
-### ** Fundamentos y Reglas del Paradigma (JavaScript Basado en Prototipos)**
+### **Fundamentos y Reglas del Paradigma (JavaScript Basado en Prototipos)**
 
 Este componente se refiere a las **leyes, definiciones y estructuras formales** que gobiernan el paradigma.  
 En el contexto de **JavaScript basado en prototipos**, las reglas se centran en **cómo se crean y relacionan los objetos**, no mediante clases, sino a través del **encadenamiento de prototipos**.
@@ -32,7 +32,7 @@ En el contexto de **JavaScript basado en prototipos**, las reglas se centran en 
 
 ---
 
-### ** Valores y Creencias del Paradigma**
+### **Valores y Creencias del Paradigma**
 
 Este componente abarca los **valores compartidos** y los **juicios** que los practicantes hacen sobre la elegancia, eficiencia o superioridad de ciertas características del paradigma frente a otros.
 
