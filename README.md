@@ -59,3 +59,5 @@ Este componente abarca los **valores compartidos** y los **juicios** que los pra
 - **Ventaja:** En contraste con algunos lenguajes donde los métodos pueden duplicarse para cada instancia, el modelo prototípico garantiza que las **funciones constructoras sean livianas** en cuanto a memoria.
 
 ---
+- [Ejercicio 4 - Calculadora](./README%20Ejercicio%204%20Calculadora.md)
+- [Ejercicio 4 - Tareas](./README%20Ejercicio%204%20Tareas.md)
